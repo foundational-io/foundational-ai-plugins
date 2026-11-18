@@ -1,0 +1,20 @@
+{
+  "name": "foundational",
+  "version": "0.1.0",
+  "description": "Foundational maps how data flows across your warehouses, pipelines, and BI tools. Ask where a table comes from, what breaks downstream if a column changes, which dashboards depend on a dataset, where warehouse cost is going, and whether any data contracts are being violated.",
+  "author": {
+    "name": "Foundational Data Inc."
+  },
+  "homepage": "https://foundational.io",
+  "repository": "https://github.com/foundational-io/foundational-ai-plugins",
+  "license": "Apache-2.0",
+  "keywords": [
+    "data lineage",
+    "data quality",
+    "data contracts",
+    "dbt",
+    "snowflake",
+    "bigquery"
+  ],
+  "logo": "assets/logo.png"
+}
