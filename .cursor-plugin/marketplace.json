@@ -1,0 +1,16 @@
+{
+  "name": "foundational",
+  "owner": {
+    "name": "Foundational Data Inc."
+  },
+  "metadata": {
+    "description": "Foundational plugins for Cursor: data lineage and impact analysis for your warehouses, pipelines and BI tools."
+  },
+  "plugins": [
+    {
+      "name": "foundational",
+      "source": "plugins/foundational",
+      "description": "Ask where a table comes from, what breaks downstream if a column changes, and which dashboards depend on a dataset, using your Foundational lineage graph."
+    }
+  ]
+}
